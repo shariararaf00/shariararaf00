@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate on web development porject 
 - 🤔 I’m looking for help with web development
 - 💬 Ask me about web development
-- 📫 How to reach me whatsApp it +8801610913392
+- 📫 How to reach me whatsApp it +8801610913302
 - 😄 Pronouns: 
-- ⚡ Fun fact: I love code
+- ⚡ Fun fact: I love coding
 
 
 
