@@ -1,10 +1,22 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on web development porject 
-- 🌱 I’m currently learning python, javascript, react & Django
-- 👯 I’m looking to collaborate on web development porject 
+- 🔭 I’m working on web development porject 
+-💻 Aspiring Full-Stack Web Developer from Bangladesh
+
+🚀 Currently building web applications using:
+- React
+- JavaScript
+- Python
+- Django
+
+🤖 Exploring AI Automation and workflow automation
+
+🌱 Learning through real projects and continuous practice
+
+📫 Open to internships, freelance opportunities, and collaborations
+
 - 🤔 I’m looking for help with web development
-- 💬 Ask me about web development
+- 💬 Ask me about AI automation
 - 📫 How to reach me whatsApp it +8801610913302
 - 😄 Pronouns: 
 - ⚡ Fun fact: I love coding
